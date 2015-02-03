@@ -1,12 +1,12 @@
 # paratext
 
-multi dimensional text networks visualization using leafletjs and d3js
+Multi dimensional text networks visualization using leafletjs and d3js
 
 ## About
 
 A JavaScript library by Armin Akhavan.
 
-See the [demo](http://arminakvn.github.io/paratext).
+See the [demo](http://arminakvn.github.io/paratext/demo/index.html).
 
 
 Or grab the [source](https://github.com/arminakvn/paratext/dist/paratext.js) ([minified](https://github.com/arminakvn/paratext/dist/paratext.min.js)).

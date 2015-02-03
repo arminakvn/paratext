@@ -8,7 +8,6 @@ results/
 
 *.seed
 *.log
-*.csv
 *.dat
 *.out
 *.pid
