@@ -1,0 +1,24 @@
+{
+  "name": "paratext",
+  "version": "0.0.0",
+  "main": "dist/paratext.min.js",
+  "description": "multi dimensional text networks visualization using leafletjs and d3js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/arminakvn/paratext.git"
+  },
+  "keywords": [],
+  "author": "Armin Akhavan",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-coffee": "^0.12.0",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-jshint": "~0.6.4",
+    "grunt-contrib-qunit": "~0.3.0",
+    "grunt-contrib-uglify": "~0.2.4",
+    "grunt-contrib-watch": "~0.5.3"
+  }
+}
